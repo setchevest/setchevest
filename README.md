@@ -21,7 +21,8 @@ A summary of my recent leadership roles and key contributions.
 *   **[ev jungle](https://www.evjungle.com)** | *CEO, CTO & Co-founder* - Shaping the future of electric movility
 *   **[Microsoft](https://www.microsoft.com)** | *Principal Software Engineering Manager*
 *   **[Constellation Crew](https://www.constellationcrew.com/)** | *CTO*
-*   **[Cloud(x)](https://www.cloudx.com/)** | *CTO*
+*   **[Cloud(x)](https://www.cloudx.com/)** | *Head of Delivery*
+*   **[Globant](https://www.globant.com/)** | *VP of Technology*
 
 ### My Toolbox
 
